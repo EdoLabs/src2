@@ -165,7 +165,7 @@
         <path fill="none" stroke="rgb(0,61,115)" d="M 9439,5298 C 9496,5329 9562,5356 9658,5346"/>
         <path fill="none" stroke="rgb(0,61,115)" d="M 9254,3794 L 9254,3794 Z"/>
         <path fill="none" stroke="rgb(0,61,115)" d="M 13000,6365 L 13000,6365 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9922" y="5243"><tspan fill="rgb(0,0,0)" stroke="none">Internet</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="10155" y="5194"><tspan fill="rgb(0,0,0)" stroke="none">Internet</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="Graphic">
@@ -182,8 +182,8 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id8">
-        <rect class="BoundingBox" stroke="none" fill="none" x="1739" y="9654" width="5866" height="1126"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="706px" font-weight="400"><tspan class="TextPosition" x="1989" y="10418"><tspan fill="rgb(0,0,0)" stroke="none">Client Computer</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1739" y="9788" width="5866" height="1126"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="706px" font-weight="400"><tspan class="TextPosition" x="1989" y="10552"><tspan fill="rgb(0,0,0)" stroke="none">Client Computer</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
