@@ -139,7 +139,7 @@
       <g class="com.sun.star.drawing.TextShape">
        <g id="id5">
         <rect class="BoundingBox" stroke="none" fill="none" x="18158" y="2397" width="4052" height="807"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="18408" y="2971"><tspan fill="rgb(0,0,0)" stroke="none">Device1 Id: 110</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="18408" y="2971"><tspan fill="rgb(0,0,0)" stroke="none">Device1 Id: 120</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
@@ -319,7 +319,7 @@
       <g class="com.sun.star.drawing.TextShape">
        <g id="id28">
         <rect class="BoundingBox" stroke="none" fill="none" x="17979" y="9783" width="4178" height="807"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="18229" y="10357"><tspan fill="rgb(0,0,0)" stroke="none">Device2 Id: 120</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="18229" y="10357"><tspan fill="rgb(0,0,0)" stroke="none">Device2 Id: 130</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
