@@ -143,14 +143,14 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id9">
-        <rect class="BoundingBox" stroke="none" fill="none" x="1381" y="13017" width="5208" height="890"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1631" y="13650"><tspan fill="rgb(0,0,0)" stroke="none">Client Application</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1381" y="13243" width="5208" height="890"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1631" y="13876"><tspan fill="rgb(0,0,0)" stroke="none">Client Application</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id10">
-        <rect class="BoundingBox" stroke="none" fill="none" x="16387" y="12938" width="7638" height="969"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="16637" y="13571"><tspan fill="rgb(0,0,0)" stroke="none">Remote Device Application</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="15376" y="13243" width="7638" height="969"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="15626" y="13876"><tspan fill="rgb(0,0,0)" stroke="none">Remote Device Application</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
