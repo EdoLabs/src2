@@ -144,8 +144,8 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id6">
-        <rect class="BoundingBox" stroke="none" fill="none" x="17994" y="7096" width="5816" height="1366"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="18244" y="7606"><tspan fill="rgb(0,0,0)" stroke="none">   </tspan><tspan fill="rgb(0,0,0)" stroke="none">device id: 100</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="18244" y="8080"><tspan fill="rgb(0,0,0)" stroke="none">   </tspan><tspan fill="rgb(0,0,0)" stroke="none">channel: ‘random-number’</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="18653" y="7128" width="5462" height="1366"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="18903" y="7638"><tspan fill="rgb(0,0,0)" stroke="none">device id: 100</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="18903" y="8112"><tspan fill="rgb(0,0,0)" stroke="none">channel: ‘random-number’</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
