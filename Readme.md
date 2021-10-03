@@ -42,7 +42,7 @@ Start your first m2m application using the [quick tour](#quick-tour) guide.
    * [Example - GPIO Input Monitoring and Output Control](#gpio-input-monitoring-and-output-control)
 7. [HTTP API Resources](#http-api)
     * [Set HTTP GET and POST Resources on Your Device](#device-get-and-post-method-setup)
-    * [HTTP GET and POST Request](#client-get-and-post-request)
+    * [Client HTTP GET and POST Request](#client-get-and-post-request)
 8. [Device Orchestration](#device-orchestration)
     * [Remote Machine Monitoring](#remote-machine-monitoring)
 9. [Using the Browser Interface](#using-the-browser-interface)
@@ -460,14 +460,14 @@ int main()
 ```js
 $ sudo apt-get install nlohmann-json3-dev
 ```
-##### 2. Compile the *main.cpp* source file inside of the *m2mQuicktour3* directory.
+##### 3. Compile the *main.cpp* source file inside of the *m2mQuicktour3* directory.
 ```js
 $ cd m2mQuicktour3
 ```
 ```js
 $ g++ -Wall -g -o bin/main main.cpp -pthread
 ```
-**3. Run the main application.**
+##### 3. Run the main application.
 ```js
 $ ./bin/main
 ```
@@ -478,11 +478,11 @@ Once the C/C++ Application is up and running, you should see a server output as 
 Server listening on: 127.0.0.1:5300
 ```
 ### Remote Client Setup
-**1. Create a client project directory and install m2m.**
+##### 1. Create a client project directory and install m2m.
 ```js
 $ npm install m2m
 ```
-**2. Save the code below as client.js in your client project directory.**
+##### 2. Save the code below as client.js in your client project directory.
 ```js
 const { Client } = require('m2m');
 
@@ -511,7 +511,7 @@ client.connect((err, result) => {
   });
 });
 ```
-**3. Run your client application.**
+##### 3. Run your client application.
 ```js
 $ node client.js -s
 ```
