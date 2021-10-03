@@ -94,7 +94,7 @@ Before you start, [create an account](https://www.node-m2m.com/m2m/account/creat
 
 #### Remote Device Setup
 
-`1. Create a device project directory and install m2m.`
+##### 1. Create a device project directory and install m2m.
 
 ```js
 $ npm install m2m
