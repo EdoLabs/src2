@@ -58,7 +58,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -357,9 +357,9 @@
       </g>
       <g class="com.sun.star.drawing.ClosedBezierShape">
        <g id="id34">
-        <rect class="BoundingBox" stroke="none" fill="none" x="2686" y="3286" width="2420" height="1098"/>
-        <path fill="rgb(255,255,255)" stroke="none" d="M 3915,3300 C 4086,3300 4232,3361 4316,3457 4361,3446 4409,3441 4459,3441 4709,3441 4900,3577 4900,3756 4900,3761 4900,3765 4899,3769 5017,3830 5091,3925 5091,4035 5091,4208 4910,4344 4661,4365 L 4661,4369 4589,4369 3131,4369 3131,4365 C 2882,4342 2700,4199 2700,4016 2700,3876 2808,3759 2969,3701 2990,3538 3168,3418 3398,3418 3446,3418 3493,3423 3535,3433 3622,3351 3757,3300 3915,3300 Z"/>
-        <path fill="none" stroke="rgb(52,101,164)" stroke-width="28" stroke-linejoin="round" d="M 3915,3300 C 4086,3300 4232,3361 4316,3457 4361,3446 4409,3441 4459,3441 4709,3441 4900,3577 4900,3756 4900,3761 4900,3765 4899,3769 5017,3830 5091,3925 5091,4035 5091,4208 4910,4344 4661,4365 L 4661,4369 4589,4369 3131,4369 3131,4365 C 2882,4342 2700,4199 2700,4016 2700,3876 2808,3759 2969,3701 2990,3538 3168,3418 3398,3418 3446,3418 3493,3423 3535,3433 3622,3351 3757,3300 3915,3300 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="2686" y="3153" width="2420" height="1231"/>
+        <path fill="rgb(255,255,255)" stroke="none" d="M 3915,3167 C 4086,3167 4232,3236 4316,3344 4361,3331 4409,3326 4459,3326 4709,3326 4900,3478 4900,3680 4900,3685 4900,3690 4899,3694 5017,3763 5091,3870 5091,3993 5091,4188 4910,4341 4661,4365 L 4661,4369 4589,4369 3131,4369 3131,4365 C 2882,4339 2700,4178 2700,3972 2700,3815 2808,3683 2969,3618 2990,3435 3168,3300 3398,3300 3446,3300 3493,3305 3535,3317 3622,3224 3757,3167 3915,3167 Z"/>
+        <path fill="none" stroke="rgb(52,101,164)" stroke-width="28" stroke-linejoin="round" d="M 3915,3167 C 4086,3167 4232,3236 4316,3344 4361,3331 4409,3326 4459,3326 4709,3326 4900,3478 4900,3680 4900,3685 4900,3690 4899,3694 5017,3763 5091,3870 5091,3993 5091,4188 4910,4341 4661,4365 L 4661,4369 4589,4369 3131,4369 3131,4365 C 2882,4339 2700,4178 2700,3972 2700,3815 2808,3683 2969,3618 2990,3435 3168,3300 3398,3300 3446,3300 3493,3305 3535,3317 3622,3224 3757,3167 3915,3167 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
@@ -370,8 +370,8 @@
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id36">
-        <rect class="BoundingBox" stroke="none" fill="none" x="5090" y="3833" width="3331" height="2117"/>
-        <path fill="none" stroke="rgb(52,101,164)" d="M 5091,3834 L 6723,3834 6723,5948 8419,5948"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="5090" y="3767" width="3331" height="2183"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 5091,3768 L 6723,3768 6723,5948 8419,5948"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.ClosedBezierShape">
@@ -395,8 +395,14 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id40">
-        <rect class="BoundingBox" stroke="none" fill="none" x="3200" y="4500" width="1477" height="647"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3450" y="4943"><tspan fill="rgb(0,0,0)" stroke="none">Cloud</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1897" y="4500" width="4192" height="700"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2147" y="4943"><tspan fill="rgb(0,0,0)" stroke="none">Cloud  service provider</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id41">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2786" y="3599" width="2414" height="646"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="318px" font-weight="400"><tspan class="TextPosition" x="3036" y="4012"><tspan fill="rgb(0,0,0)" stroke="none">Public cloud</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
